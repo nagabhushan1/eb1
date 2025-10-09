@@ -1,0 +1,5 @@
+Welcome to Spark
+Welcome to AWS
+Learning SQL and Python is fun
+Learning Spark is fun
+Spark, Hadoop is big data technology
