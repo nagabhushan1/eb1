@@ -1,0 +1,8 @@
+Links for Reading
+
+- https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+- https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+- https://spark.apache.org/research.html
+- https://www.ibm.com/think/topics/data-lake
+- https://www.databricks.com/product/data-lakehouse
+- https://hadoop.apache.org/
