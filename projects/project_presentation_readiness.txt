@@ -1,0 +1,13 @@
+Project Related Questions
+
+ - How did you design your data pipeline?
+ - How did you secure your data?
+ - How did you optimize your queries / jobs ?
+ - What were your achievements in each sprint?
+ - What challenges did you face?
+ - What is the cost of each component?
+ - Why did you use this tech stack?
+ - What is the difference between RDS, Redshift, DynamoDB and Athena?
+ - What is the difference between Glue and EMR?
+ - What is the difference between Kinesis and MSK?
+ - What is the difference between IAM Role and IAM Policy?
